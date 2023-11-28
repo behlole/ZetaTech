@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Sat, 18 Nov 2023 11:47:56 at https://www.accenture.com/us-en
+(winhttrack https://www.accenture.com/us-en -O "/Users/dev/Desktop/Accenture Latest" -%v -r2 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:51:33	Error: 	"Not Found" (404) at link https://www.accenture.com/apps/cio-sites/clientlibs/onetrust/ot-s/scripttemplates/otSDKStub.js (from https://www.accenture.com/us-en)
+11:51:33	Error: 	"Not Found" (404) at link https://www.accenture.com/apps/cio-sites/clientlibs/onetrust/ot-p/scripttemplates/otSDKStub.js (from https://www.accenture.com/us-en)
+11:51:34	Warning: 	Link https://www.accenture.com/us-en/search/ai-search not scanned (follow robots meta tag)
+11:51:35	Warning: 	Link https://www.accenture.com/us-en/support/terms-of-use not scanned (follow robots meta tag)
+11:51:35	Warning: 	Link https://www.accenture.com/us-en/support/accessibility-statement not scanned (follow robots meta tag)
+11:51:35	Warning: 	Link https://www.accenture.com/us-en/form-do-not-sell-my-personal-information not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 39 seconds : 190 links scanned, 187 files written (43136912 bytes overall) [7682679 bytes received at 35080 bytes/sec], 41091690 bytes transferred using HTTP compression in 175 files, ratio 12%, 32.1 requests per connection
+(2 errors, 4 warnings, 0 messages)
